@@ -90,10 +90,6 @@ endmodule
 ```
 Program for logic gates and verify its truth table in quartus using Verilog programming.
 
-**Developed by: THIRUKUMARAN G**
-
-**RegisteNumber: 212223050056**
-
 
 **RTL LOGIC FOR 4 Bit Ripple Counter**
 ![330489871-a0d3aa3d-b3b0-4ce0-89bb-bfa1a8abde7c](https://github.com/RamkumarGunasekaran/4-BIT-RIPPLE-COUNTER/assets/144870820/9cbf71a5-4809-4437-a99f-24d928634e94)
